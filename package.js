@@ -11,10 +11,10 @@ Package.describe({
 });
 
 Npm.depends({
-  "h5.modbus": "https://github.com/morkai/h5.modbus/archive/0993906e41429a298e91c85dda00ea663c0e9f3e.tar.gz",
-  "serialport": "1.7.1",
-  "winston": "1.1.1",
-  "winston-mongodb": "1.2.0"
+  "h5.modbus": "https://github.com/morkai/h5.modbus/archive/8eb063d6f00a07ba9b20076f037ed4cf1eea1d66.tar.gz",
+  "serialport": "^6.0.4",
+  "winston": "^2.4.0",
+  "winston-mongodb": "^3.0.1"
 });
 
 
